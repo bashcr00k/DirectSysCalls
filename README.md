@@ -31,6 +31,8 @@ so if we pass one argument to a function it will get stored inside rcx we will u
 
 # Usage 
 `HeavensGate -h` to show the help message 
+
+
 `-id     extracts the syscall id of the given function EX : -id NtCreateFile
 -t      executes NtCreateFile as a proof of concept
 -h      prints this message`
