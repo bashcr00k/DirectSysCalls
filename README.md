@@ -43,8 +43,8 @@ id     extracts the syscall id of the given function EX : -id NtCreateFile
 as u have noticed i called this heavensgate as a ref to the original poc written by smelly__vx (@RtlMateusz) and am0nsec (@am0nsec) and this will be the topic of my next poc which is about direct syscalls and how we can bypass edr hooks using the method they created ;) 
 
 # ScreenShot
+![image](https://github.com/user-attachments/assets/5ca27ae6-3e3e-49dc-998d-d145ec01f30e)
 
-![image](https://github.com/user-attachments/assets/cce351f5-2204-4a85-87d1-565213819a70)
 
 
 
