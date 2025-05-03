@@ -33,9 +33,11 @@ so if we pass one argument to a function it will get stored inside rcx we will u
 `HeavensGate -h` to show the help message 
 
 
-`-id     extracts the syscall id of the given function EX : -id NtCreateFile`
-`-t      executes NtCreateFile as a proof of concept \n`
-`-h      prints this message`
+```
+id     extracts the syscall id of the given function EX : -id NtCreateFile
+-t      executes NtCreateFile as a proof of concept \n
+-h      prints this message
+```
 
 # Important Notes
 as u have noticed i called this heavensgate as a ref to the original poc written by smelly__vx (@RtlMateusz) and am0nsec (@am0nsec) and this will be the topic of my next poc which is about direct syscalls and how we can bypass edr hooks using the method they created ;) 
