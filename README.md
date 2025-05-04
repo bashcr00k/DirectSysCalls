@@ -30,13 +30,13 @@ here we need to understand the windows calling convention
 
 Argument  	Register
 
-1st	        RCX
+1st                        RCX
 
-2nd	        RDX
+2nd	                       RDX
 
-3rd	        R8
+3rd	                        R8
 
-4th	        R9
+4th	                        R9
 
 
 so if we pass one argument to a function it will get stored inside rcx we will use that as you can see i passed one argument to the function and then moved rcx into another register then moved the new register into the variable that contains the syscall id now we have the syscall id inside the stub all we need to do is execute the syscall which is simple read the code 
