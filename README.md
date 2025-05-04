@@ -61,6 +61,8 @@ as u have noticed i called this heavensgate as a ref to the original poc written
 
 ![image](https://github.com/user-attachments/assets/5ca27ae6-3e3e-49dc-998d-d145ec01f30e)
 
+# FOR EDUCATIONAL PURPOSES ONLY
+
 
 
 
